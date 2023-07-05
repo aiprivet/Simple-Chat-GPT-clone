@@ -54,7 +54,6 @@ We hope you find this project useful and enjoy experimenting with Chat GPT!
 ```
 # npm
 npm install
-
 ```
 
 ### Compiles and hot-reloads for development
@@ -62,7 +61,6 @@ npm install
 ```
 # npm
 npm run dev
-
 ```
 
 ### Compiles and minifies for production
@@ -70,13 +68,11 @@ npm run dev
 ```
 # npm
 npm run build
-
 ```
 
 ### Lints and fixes files
 
 ```
-
 # npm
 npm run lint
 
