@@ -1,5 +1,5 @@
 # essentials
-![Alt text](/img.jpg?raw=true "Prewiew")
+!(/img.jpg?raw=true "Prewiew")
 
 This project is a simple implementation of Chat GPT (Generative Pre-trained Transformer) using Vue.js 3 and Vuetify. Chat GPT is a powerful language model that can generate human-like responses based on given prompts. To make it work, you will need a valid API key, which should be entered in settings or hardcode it into code.
 
