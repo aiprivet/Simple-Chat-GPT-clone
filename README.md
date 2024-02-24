@@ -46,11 +46,6 @@ This project is licensed under the .... For more information, please refer to th
 Acknowledgements:
 This project is built using Vue.js 3 and Vuetify. Special thanks to the Vue.js and Vuetify communities for their amazing contributions and support.
 
-Contact:
-For any further information or queries regarding this project, feel free to contact the project maintainer at aiprivet@icloud.com.
-
-We hope you find this project useful and enjoy experimenting with Chat GPT!
-
 ## Project setup
 
 ```
